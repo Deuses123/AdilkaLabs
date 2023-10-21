@@ -1,10 +1,5 @@
 package com.example.untitled;
-raz dva tri AKsmdkas
-raz dva tri AKsmdkas
-raz dva tri AKsmdkas
-raz dva tri AKsmdkas
-raz dva tri AKsmdkas
-public class Main {
+public class lab3 {
 
 
     public static void main(String[] args) {
